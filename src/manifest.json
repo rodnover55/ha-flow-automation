@@ -1,0 +1,8 @@
+{
+    "domain": "flow_automation",
+    "name": "Data flow automation",
+    "documentation": "https://github.com/rodnover55/ha-flow-automation",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": []
+}
